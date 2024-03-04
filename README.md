@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png"/><br/><br/>
+<img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png"/><br/>
 
 <h1 align="center">
     <samp>&gt; KASIR XIRC by,
@@ -6,6 +6,8 @@
     </samp>
 </h1>
 
+<br>
+<br>
 <h1>Kasir App</h1>
 Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
 
