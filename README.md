@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<b>Kasir App</b>
+<h1>Kasir App</h1>
 Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
 
 Aplikasi ini dibuat dengan:
