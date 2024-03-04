@@ -1,10 +1,10 @@
 <img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png"/><br/>
 
-<h1 align="center">
+<p align="center">
     <samp>&gt; KASIR XIRC by,
         <b><a href="#">Muhammad Yusuf Arrofi</a></b>
     </samp>
-</h1>
+</p>
 
 <br>
 <br>
