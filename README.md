@@ -1,6 +1,6 @@
 <img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png"/><br/>
 
-<p align="center">
+<p style="font-size: 20px;" align="center">
     <samp>&gt; KASIR XIRC by,
         <b><a href="#">Muhammad Yusuf Arrofi</a></b>
     </samp>
