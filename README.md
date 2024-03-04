@@ -1,11 +1,11 @@
-<img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png" alt="Pixel Art" /><br/>
+<img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png"/><br/>
 
 <h1 align="center">
     <samp>&gt; KASIR XIRC by,
         <b><a target="_blank" href="#">Muhammad Yusuf Arrofi</a></b>
     </samp>
 </h1>
-
+<br>
 <h1>Kasir App</h1>
 Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
 
