@@ -1,6 +1,4 @@
-<p>
-    <img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png" alt="Pixel Art" />
-</p>
+<img align="right" width="350" src="https://s9.gifyu.com/images/SFe7F.png" alt="Pixel Art" />
 <h1 align="center">
     <samp>&gt; KASIR XIRC by,
         <b><a target="_blank" href="#">Muhammad Yusuf Arrofi</a></b>
