@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <samp>&gt; KASIR XIRC by,
-        <b><a target="_blank" href="#">Muhammad Yusuf Arrofi</a></b>
+        <b><a href="#">Muhammad Yusuf Arrofi</a></b>
     </samp>
 </h1>
 
